@@ -6,7 +6,6 @@ using namespace std;int main()
 	int n = 5;
 	int c=0;
 	int a[]={1,51,84,21,31};
-
 	for(int i=0;i<n;i++)
 	{
 		for(int j=0;j<=i;j++)
